@@ -1,0 +1,18 @@
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.csprojResolveAssemblyReference.cache
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_BUS.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_BUS.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DAO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DTO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DAO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DTO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_BUS.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_BUS.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DAO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DTO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DAO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\bin\Debug\QuanLyNGK_DTO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.csprojResolveAssemblyReference.cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_BUS\obj\Debug\QuanLyNGK_BUS.pdb

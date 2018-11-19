@@ -1,0 +1,10 @@
+D:\Free Download\QuanLyNGK\QuanLyNGK_DTO\bin\Debug\QuanLyNGK_DTO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_DTO\bin\Debug\QuanLyNGK_DTO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.csprojResolveAssemblyReference.cache
+D:\Free Download\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DTO\bin\Debug\QuanLyNGK_DTO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DTO\bin\Debug\QuanLyNGK_DTO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.csprojResolveAssemblyReference.cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DTO\obj\Debug\QuanLyNGK_DTO.pdb

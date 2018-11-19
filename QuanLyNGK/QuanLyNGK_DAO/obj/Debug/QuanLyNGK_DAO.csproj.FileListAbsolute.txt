@@ -1,0 +1,14 @@
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.csprojResolveAssemblyReference.cache
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DAO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DAO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DTO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DTO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DAO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DAO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DTO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\bin\Debug\QuanLyNGK_DTO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.csprojResolveAssemblyReference.cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK_DAO\obj\Debug\QuanLyNGK_DAO.pdb

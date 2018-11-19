@@ -1,0 +1,46 @@
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK.exe
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK_GUI.csprojResolveAssemblyReference.cache
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmMain.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.Properties.Resources.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK_GUI.csproj.GenerateResource.Cache
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.exe.licenses
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.exe
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmDangNhap.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoad.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_BUS.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DTO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DAO.dll
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_BUS.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DTO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DAO.pdb
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoaiNV.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmNhanVien.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoaiSP.resources
+D:\Free Download\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmSanPham.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.exe
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK.exe
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_BUS.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DTO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DAO.dll
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_BUS.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DTO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\bin\Debug\QuanLyNGK_DAO.pdb
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK_GUI.csprojResolveAssemblyReference.cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmDangNhap.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoad.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoaiNV.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmLoaiSP.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmMain.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmNhanVien.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmSanPham.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.Properties.Resources.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK_GUI.csproj.GenerateResource.Cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.exe.licenses
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmChonBaoCao.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\QuanLyNGK.frmXemBaoCao.resources
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\RdlCompile.cache
+E:\IT\DoAnWinNC\do-an\QuanLyNGK\QuanLyNGK\obj\Debug\RdlCompile.compiled
